@@ -1,4 +1,4 @@
-# Hello There!, I'm VAISHALI AWASTI! 👋
+# Hello There!, I'm VAISHALI AWASTHI! 👋
 
 I am a dedicated BACKEND developer specializing in crafting dynamic, user-centric interfaces for both web and mobile platforms. With expertise in JavaScript, Java, Node, MySQL, and a range of tools and frameworks including Tailwind CSS, Express, JDBC, and Bootstrap for advanced animations, I deliver innovative, scalable, and efficient solutions. I am always eager to explore new technologies and push the boundaries of innovation in web and mobile development.
 
